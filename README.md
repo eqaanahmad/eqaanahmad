@@ -62,7 +62,7 @@ const eqanAhmad: SoftwareEngineer = {
 > A Python automation tool that imports products straight from Excel into Shopify using the GraphQL Admin API — titles, descriptions, prices, SKUs and images, all hands-off.
 
 <a href="https://github.com/eqaanahmad/shopify-product-import-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eqaanahmad&repo=shopify-product-import-automation&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0&icon_color=88C0D0" alt="shopify-product-import-automation" />
+  <img src="https://github-readme-stats-lemon-one-56.vercel.app/api/pin/?username=eqaanahmad&repo=shopify-product-import-automation&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0&icon_color=88C0D0" alt="shopify-product-import-automation" />
 </a>
 
 | Layer | Technology |
@@ -83,7 +83,7 @@ const eqanAhmad: SoftwareEngineer = {
 > A fully responsive appointment booking web application — clean UI, smooth UX, deployed live on Vercel.
 
 <a href="https://github.com/eqaanahmad/booking-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eqaanahmad&repo=booking-website&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0&icon_color=88C0D0" alt="booking-website" />
+  <img src="https://github-readme-stats-lemon-one-56.vercel.app/api/pin/?username=eqaanahmad&repo=booking-website&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0&icon_color=88C0D0" alt="booking-website" />
 </a>
 
 | Layer | Technology |
@@ -106,13 +106,9 @@ const eqanAhmad: SoftwareEngineer = {
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages" />
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" alt="Frontend" />
-
 **Cloud & Deployment**
 
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare&theme=dark" alt="Cloud and deployment" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Cloud and deployment" />
 
 **Platforms & AI Tools**
 
@@ -133,8 +129,8 @@ const eqanAhmad: SoftwareEngineer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eqaanahmad&show_icons=true&count_private=true&include_all_commits=true&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&icon_color=88C0D0&text_color=E5E9F0" alt="Eqan Ahmad's GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eqaanahmad&layout=compact&langs_count=8&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0" alt="Top languages" height="180" />
+<img src="https://github-readme-stats-lemon-one-56.vercel.app/api?username=eqaanahmad&show_icons=true&count_private=true&include_all_commits=true&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&icon_color=88C0D0&text_color=E5E9F0" alt="Eqan Ahmad's GitHub stats" height="180" />
+<img src="https://github-readme-stats-lemon-one-56.vercel.app/api/top-langs/?username=eqaanahmad&layout=compact&langs_count=8&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0" alt="Top languages" height="180" />
 
 <br/><br/>
 
