@@ -130,15 +130,11 @@ const eqanAhmad: SoftwareEngineer = {
 <div align="center">
 
 <img src="https://github-readme-stats-lemon-one-56.vercel.app/api?username=eqaanahmad&show_icons=true&count_private=true&include_all_commits=true&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&icon_color=88C0D0&text_color=E5E9F0" alt="Eqan Ahmad's GitHub stats" height="180" />
-<img src="https://github-readme-stats-lemon-one-56.vercel.app/api/top-langs/?username=eqaanahmad&layout=compact&langs_count=8&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0" alt="Top languages" height="180" />
+<img src="https://github-readme-stats-lemon-one-56.vercel.app/api/top-langs/?username=eqaanahmad&layout=compact&langs_count=8&exclude_repo=github-readme-stats&theme=nord&bg_color=1A2227&border_color=1A2227&title_color=88C0D0&text_color=E5E9F0" alt="Top languages" height="180" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=eqaanahmad&theme=nord&background=1A2227&border=1A2227&stroke=1A2227&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=E5E9F0&dates=E5E9F0" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=eqaanahmad&theme=nord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub trophies" />
 
 <br/><br/>
 
